@@ -20,12 +20,12 @@ Active Directory Home Lab is a virtual environment built using VirtualBox to sim
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Change Directory Permission: <br/>
+<img src="https://imgur.com/VUyEl4e.png" height="80%" width="80%" border= 2px alt="Change Directory Permission"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Change File Permission on Hidden Files:  <br/>
+<img src="https://imgur.com/fGgXLot.png" height="80%" width="80%" alt="Change File Permission on Hidden Files"/>
 <br />
 <br />
 Enter the number of passes: <br/>
